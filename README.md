@@ -3,7 +3,7 @@
 ## Description
 6,003 Videos - Gather Behavior Data. The data includes outdoor scenes. The data covers multiple scenes, multiple time periods, different density of the gathering crowd. The data can be used for tasks such as crowd behavior detection, crowd behavior recognition, gathering behavior detection, gathering behavior recognition and other tasks.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1386?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1386?source=Github
 
 
 ## Data size
